@@ -1,0 +1,21 @@
+###################################################
+#    Key file for Enigma Encryption/Decryption    #
+#    Put your settings in such order:             #
+#    ROTOR#,ROTOR#,ROTOR#                         #
+#    @@@ (three letters representing start        #
+#         position of rotors                      #
+#    B/C  reflector B or C                        #
+#    LETTERLETTER (pairs of letter in plugboard   #
+#                   separated by comma, no spaces #
+# EXAMPLE:                                        #
+# 123                                             #
+# EFV                                             #
+# B                                               #
+# AB,CD,EF,GH                                     #
+#                                                 #
+###################################################
+123
+ABC
+B
+AB,CD,EF,GH,IJ,KL
+
