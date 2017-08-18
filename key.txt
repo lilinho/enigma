@@ -7,6 +7,8 @@
 #    B/C  reflector B or C                        #
 #    LETTERLETTER (pairs of letter in plugboard   #
 #                   separated by comma, no spaces #
+#    WARNING: You have to put new line at the end #
+#             of the file                         #
 # EXAMPLE:                                        #
 # 123                                             #
 # EFV                                             #
@@ -18,4 +20,3 @@
 ABC
 B
 AB,CD,EF,GH,IJ,KL
-
