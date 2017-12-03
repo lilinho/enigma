@@ -1,7 +1,7 @@
 ###################################################
 #    Key file for Enigma Encryption/Decryption    #
 #    Put your settings in such order:             #
-#    ROTOR#,ROTOR#,ROTOR#                         #
+#    ROTOR#,ROTOR#,ROTOR# (3 from 5 rotors)       #
 #    @@@ (three letters representing start        #
 #         position of rotors                      #
 #    B/C  reflector B or C                        #
