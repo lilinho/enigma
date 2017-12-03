@@ -57,7 +57,7 @@ def main():
         plugboard_alphabet += settings[3][i][0]
     for i in range(len(settings[3])):
         plugboard_alphabet += settings[3][i][1]
-    if len(plugboard_alphabet)%2 != 2:
+    if len(plugboard_alphabet)%2 != 0:
         print("Key error. Every letter must have its pair. Program will exit")
         return
     plugboard = [plugboard_alphabet, plugboard_alphabet[::-1]]
